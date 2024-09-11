@@ -20,15 +20,15 @@
 # PC Specs:
 |Name|Model|
 |---|---|
-|MB|  ![MB](https://img.shields.io/badge/ROG_STRIX_B660A--GAMING_Wi--Fi_D4-0?style=for-the-badge&logo=republicofgamers&color=%23FF0029)|
+|Motherboard|  ![MB](https://img.shields.io/badge/ROG_STRIX_B660A--GAMING_Wi--Fi_D4-0?style=for-the-badge&logo=republicofgamers&color=%23FF0029)|
 |CPU|![CPU](https://img.shields.io/badge/Core_I5--12400-0?style=for-the-badge&logo=intel&color=%230071C5)|
 |GPU| ![GPU](https://img.shields.io/badge/GTX_1050Ti-0?style=for-the-badge&logo=nvidia&logoColor=%23ffffff&color=%2376B900)|
 |SSD|![SSD](https://img.shields.io/badge/KC3000_512GB-0?style=for-the-badge&logo=kingstontechnology&logoColor=%23ffffff&color=%23000000)|
 |RAM|![RAM](https://img.shields.io/badge/DDR4_2x16Gb_3733Mhz-0?style=for-the-badge&logo=kingstontechnology&logoColor=%23ffffff&color=%23000000)|
-|PSU|![PSU](https://img.shields.io/badge/PM800D-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
-|CASE|![CASE](https://img.shields.io/badge/CK560-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
-|COOLER|![COOLER](https://img.shields.io/badge/AK400_ZERO_DARK-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
-|CASE FANS|![FANS](https://img.shields.io/badge/3x_FC120-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
+|Power Supply|![PSU](https://img.shields.io/badge/PM800D-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
+|Case|![CASE](https://img.shields.io/badge/CK560-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
+|Cooler|![COOLER](https://img.shields.io/badge/AK400_ZERO_DARK-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
+|Case Fans|![FANS](https://img.shields.io/badge/3x_FC120-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=igorten21&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>

@@ -10,6 +10,8 @@
 
 
 # Socials:
+[![Static Badge](https://img.shields.io/badge/Telegram-0?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&color=%2326A5E4)](https://t.me/igorten21)
+[![VK](https://img.shields.io/badge/VK-0?style=for-the-badge&logo=vk&color=%230077FF)](https://vk.com/Figorten21)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/igorten21) 
 
 # Tech Stack:

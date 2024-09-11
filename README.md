@@ -29,7 +29,7 @@
 |Case|![CASE](https://img.shields.io/badge/CK560-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
 |Cooler|![COOLER](https://img.shields.io/badge/AK400_ZERO_DARK-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
 |Case Fans|![FANS](https://img.shields.io/badge/3x_FC120-0?style=for-the-badge&logo=deepcool&logoColor=%23ffffff&color=%23068584)|
-|OS|![fedora](https://img.shields.io/badge/Fedora-0?style=for-the-badge&logo=fedora&logoColor=%23FFFFFF&color=%2351A2DA)
+|OS|![fedora](https://img.shields.io/badge/Fedora-0?style=for-the-badge&logo=fedora&logoColor=%23FFFFFF&color=%2351A2DA)<br/>
 ![windows](https://img.shields.io/badge/Windows_11_23H2-0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=%23FFFFFF&color=%23000000)|
 
 # GitHub Stats:

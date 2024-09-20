@@ -2,7 +2,7 @@
 
  we gonna write code with this one 🗣️🔥🔥
 
-![](https://github.com/igorten21/igorten21/blob/main/walter.jpg)
+![](https://cdn.7tv.app/emote/66cba663c3bb781db7c67ef0/3x.webp)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ![](https://cdn.7tv.app/emote/62dc3e26b98f078c8a422d15/3x.webp)
 
-![](https://cdn.7tv.app/emote/66cba663c3bb781db7c67ef0/3x.webp)
+![](https://cdn.7tv.app/emote/66cba663c3bb781db7c67ef0/3x.webp) ![](https://cdn.7tv.app/emote/60ef48af276c8fd8c63567d3/3x.webp)
 
 ---
 

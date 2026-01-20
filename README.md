@@ -4,18 +4,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=igorten21&icon=0&color=13)](https://visitcount.itsvg.in)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igorten21&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=igorten21&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorten21&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# Socials:
-[![Static Badge](https://img.shields.io/badge/Telegram-0?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&color=%2326A5E4)](https://t.me/igorten21)
-[![VK](https://img.shields.io/badge/VK-0?style=for-the-badge&logo=vk&color=%230077FF)](https://vk.com/igorten21)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/igorten21) 
-
 # Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-0?style=for-the-badge&logo=postman&logoColor=%23ffffff&color=%23FF6C37)
 
